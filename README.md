@@ -1,2 +1,1 @@
-# Testgithub
-GithubTutorial
+# Testgithub is a repsository for showing the bare minimums of github and how to manuever functions. How does VIM work.  You press down, up, left, right. Press insert or I, I can start typing stuff.  Press the escape button to get out of all modes on the top left, I can get out of insert. Then I can press colon Q to to save after you press escape key in the top left corner.To quit and save would becolon X.
